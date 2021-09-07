@@ -10,5 +10,5 @@ The goal of MITHOS is to allow an MR-supported long-term acquisition of social s
 
 The human-centered generalisable concept is a novel combination of VR and sensor technologies to simulate interactive virtual agents. This makes it possible to exchange social signals, natural implicit social feedback, as well as the coupling of virtual and real experience realms.
 
-###Partners
+### Partners
 Universität Augsburg, Universität des Saarlandes – Empirische Bildungsforschung und Fachdidaktik Deutsch Primarstufe, TriCAT GmbH, Paragon SemVox GmbH
